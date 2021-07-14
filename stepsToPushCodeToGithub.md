@@ -1,6 +1,6 @@
-## Steps to push code to GitHub
+## Steps to push code to Github
 
-- Create a Folder for code
+- Create Folder for code
 `mkdir nameOfFolder`
 - Navigate into newly created folder
 `cd nameOfFolder`
@@ -23,7 +23,6 @@ or
 ```
     git commit -m "first commit"
 ```
-- Create a GitHub repo
-
+- Create a Github repo
 
 <!-- will finish typing this tomorrow. Make bullet points of what is required of us -->
